@@ -44,6 +44,11 @@ Interactive report design across three pages (Overall, Product, Customer)
 
 User-focused storytelling with consistent layout and navigation
 
+### 🎥 Dashboard Walkthrough Video
+
+[▶️ Watch the Video](https://youtu.be/OkoHMDN4a4E)
+
+
 
 ## 📸 Dashboard Preview
 
