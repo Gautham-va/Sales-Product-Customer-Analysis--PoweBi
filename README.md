@@ -1,4 +1,4 @@
-#Sales, Product & Customer Insights Dashboard — Power BI
+# Sales, Product & Customer Insights Dashboard — Power BI
 
 This project presents a multi-page Power BI dashboard built as part of a data analyst assessment using a sample dataset.
 The goal was to transform raw sales data into clear, actionable insights by combining strong data modelling, DAX measures, and dashboard design.
