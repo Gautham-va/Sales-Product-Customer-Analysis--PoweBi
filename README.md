@@ -46,7 +46,7 @@ User-focused storytelling with consistent layout and navigation
 
 ### 🎥 Dashboard Walkthrough Video
 
-
+https://github.com/Gautham-va/Sales-Product-Customer-Analysis--PoweBi/issues/1#issue-3670663133
 
 
 
