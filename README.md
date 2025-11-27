@@ -46,7 +46,6 @@ User-focused storytelling with consistent layout and navigation
 
 ### 🎥 Dashboard Walkthrough Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_ID" frameborder="0" allowfullscreen></iframe>
 
 
 
